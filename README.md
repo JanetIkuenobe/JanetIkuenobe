@@ -1,8 +1,4 @@
 ### Hi there, I'm Janet Ikuenobe!
-- 👀 I’m interested in 
-- 🌱 I’m currently learning  
-- 💞 I'm looking forward
-- 📫 How to reach me 
 
 <!---
 JanetIkuenobe/JanetIkuenobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
