@@ -19,6 +19,5 @@ I love learning and cycling.
 I look forward to collaborating with other Data Analysts.
 
 ### How To Reach Me
-My linkedin link(www.linkedin.com/in/janet-ikuenobe-7064b614a)
 My GitHub link (https://github.com/JanetIkuenobe)
 My Email Address (janetikuenobe44@gmail.com)
